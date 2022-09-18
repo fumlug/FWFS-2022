@@ -4,7 +4,7 @@
 Slides and links related to the conference on familiarization with free software
 
 ## speakers:
-## Saeid Abrishami
+## [Saeid Abrishami](https://s-abrishami.profcms.um.ac.ir)
 ##### Assistant Professor of Computer Engineering, Ferdowsi University of Mashhad
 ---
 ## [Soroush Fathi](https://github.com/soroushfathi)
